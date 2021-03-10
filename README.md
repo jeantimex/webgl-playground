@@ -1,2 +1,3 @@
-# webgl-playground
+# WebGL Playground
+
 A playground of WebGL
